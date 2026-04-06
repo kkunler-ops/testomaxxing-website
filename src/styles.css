@@ -723,6 +723,10 @@ body {
   color: #000000;
 }
 
+.pricing-card.card .pricing-card__badge {
+  color: #000000;
+}
+
 .pricing-card__amount {
   display: flex;
   flex-wrap: wrap;
