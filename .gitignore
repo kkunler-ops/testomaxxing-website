@@ -1,0 +1,21 @@
+node_modules
+dist
+.DS_Store
+
+# Lokale Medien / Arbeitsordner — gehören nicht ins Website-Repo
+Bild/
+edit/
+carousel/
+
+# Große Mediendateien (GitHub-Limit 100 MB)
+*.mp4
+*.MP4
+*.m4a
+*.mov
+*.webm
+*.zip
+
+# Lose Dateien im Projektroot (Screenshots, Exports)
+Bildschirmfoto*.png
+Jla3P43tx11*.png
+RPReplay*
