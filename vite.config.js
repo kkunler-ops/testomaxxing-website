@@ -14,6 +14,7 @@ export default defineConfig({
         termsOfUse: resolve(__dirname, 'terms-of-use.html'),
         privacyPolicy: resolve(__dirname, 'privacy-policy.html'),
         legalNotice: resolve(__dirname, 'legal-notice.html'),
+        support: resolve(__dirname, 'support.html'),
       },
     },
   },
